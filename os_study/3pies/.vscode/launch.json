@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/liuhanqing/work/cs_stduy/os_study/3pies/cpu",
+      "program": "/Users/liuhanqing/work/cs_stduy/os_study/3pies/cpu/build/Debug/outDebug"
+    }
+  ]
+}
