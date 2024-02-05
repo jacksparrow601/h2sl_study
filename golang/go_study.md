@@ -26,6 +26,8 @@ func main() {
 ```
 ##### defer
 在go中，`defer`关键字用于确保函数调用在程序执行结束时执行。通常用于资源清理工作，例如关闭文件、解锁互斥量、发送HTTP响应等。`defer`使代码更加整洁，确保无论函数通过哪条路径退出，都能执行必要的清理工作。
+多个defer应用，会把所有的defer都压stack，然后再一个个弹出，FILO
+defer的执行是在当前函数返回之后
 
 使用场景
 - 资源管理：确保（如文件、网路连接等）在不需要的时被释放
@@ -46,3 +48,36 @@ func readFile(filename string) error {
 1. 当存在多个`defer`语句： 执行顺序会按照先进后出的顺序，即最后一个`defer`先执行，第一个`defer`最后执行
 2. 参数的求值： 在`defer`语句中，函数的参数会在`defer`语句被执行时立即求值，而不是在实际调用时求值
 3. 与返回值的交互： `defer`语句可以修改函数的返回值，但这需要使用命名的返回值。
+
+### 一些常用的语法特性
+判断map中是否存在一个key
+```golang
+// mp : = make(map[type1]type2)
+ mp : = make(map[uint8]int) // uint8实际上是字符类型
+ k := 'i'
+ if _, ok := mp[k], ok{ // 判断是否map里有k这个元素
+
+ }
+ ```
+ golang没有while循环，for后面跟条件就是while循环
+ ```golang
+ for r1 < r2{
+
+ }
+ //等价于c++的while(r1<r2){}
+```
+golang的slice取数方式是右边开
+```golang
+slice1 := [10]int
+slice2 := "abcd"                //左边是语句，右边是执行效果
+fmt.Printf("s[1:4]%s\n", s[1:4]) // s[1:4]bcd
+fmt.Printf("s[0:4]%s\n", s[0:4]) // s[0:4]abcd 
+fmt.Printf("s[0:3]%s\n", s[0:3]) // s[0:3]abc  
+```
+golang中的最大值
+```golang
+//64位最大值
+maxInt64 := math.MaxInt64
+//32位最大值
+maxInt32 := math.MaxInt32
+```
