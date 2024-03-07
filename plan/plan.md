@@ -1,4 +1,4 @@
-# 学习规划
+# 1. 学习规划
 
 ## 1. Algorithm
 每周完成两篇labuladong的文章阅读
@@ -31,7 +31,26 @@ b站那门课也听完
 ## c++
 
 
-# 整体存在的问题
-工作的效率要提高上去，仔细总结问题
-缺少每周和每天的规划
-缺少应对自身惰性的策略，已经开始进入反复期，甚至往回走 
+# 2. 详细计划
+## 2024年度
+### 2月
+#### 4th周
+- [ ] 总结8h golang，完成代码项目抄写，多加备注
+- [ ] 一篇labuladong的文章，把链表的题目完成6个
+- [ ] fuyao controller代码重点理解，按照总结，把里面涉及到技术栈搞清楚，做好总结，（go-restful中各个参数究竟是怎么用的，怎么截取url中的参数, informer, client.go）底线这三个。关于上下文的理解，channel，select，注册路由的分发等等 。搞清楚fuyao如何获取各项资源的相关信息
+##### Tues
+代码完成前两个章节
+1leetcode
+
+
+### 3月
+#### 1st周
+上周的计划，完全没有完成。完成上周计划
+
+
+##### Mon
+- [x] 一篇文章中的两道题
+- [x] channel select理解总结
+
+##### Thur
+- [ ] [链接晚上写这两道题的递归写法](https://labuladong.online/algo/data-structure/reverse-linked-list-recursion/#%E4%BA%8C%E3%80%81%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8%E5%89%8D-n-%E4%B8%AA%E8%8A%82%E7%82%B9)
