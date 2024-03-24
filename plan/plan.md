@@ -57,3 +57,18 @@ b站那门课也听完
 
 ##### Thur
 - [ ] [链接晚上写这两道题的递归写法](https://labuladong.online/algo/data-structure/reverse-linked-list-recursion/#%E4%BA%8C%E3%80%81%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8%E5%89%8D-n-%E4%B8%AA%E8%8A%82%E7%82%B9)
+
+#### 5th week
+我希望能把这周过好
+
+8:30-9:30，1h用来背golang的知识，开着goland去编码记忆
+13:30-14:10 40分钟labuladong
+14:10-:15:00 看k8
+9:20-10:00 机动学习时间
+10:00-10:20 每日复习总结
+
+周三，周五提前一天想对策
+周六，到周五再想对策
+- [] labuladong文章第一章除掉图之外的所有内容，搞完！！！！
+- [] olivia的golang学习完这周
+- [] 把8h golang看完
