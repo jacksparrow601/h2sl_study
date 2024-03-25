@@ -31,6 +31,9 @@ b站那门课也听完
 ## c++
 
 
+
+
+
 # 2. 详细计划
 ## 2024年度
 ### 2月
@@ -54,3 +57,39 @@ b站那门课也听完
 
 ##### Thur
 - [ ] [链接晚上写这两道题的递归写法](https://labuladong.online/algo/data-structure/reverse-linked-list-recursion/#%E4%BA%8C%E3%80%81%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8%E5%89%8D-n-%E4%B8%AA%E8%8A%82%E7%82%B9)
+
+
+### 3月
+#### 4th周
+- [] labuladong链表部分刷题+总结
+- [] [页面崩溃了！！](https://www.youandgentleness.cn/2023/08/28/Go%E8%AF%AD%E8%A8%80%E9%9D%A2%E8%AF%95%E9%A2%98%E7%B2%BE%E8%AE%B2/)把go基础和slice部分记牢！！
+- [] 把通信这个例子的代码全部跑一遍，要花3h以上时间去理解，总结里面的东西，自己不熟悉的点 [通信系统](https://www.yuque.com/aceld/mo95lb/ks1lr9)
+#### 5th week
+我希望能把这周过好
+
+8:30-9:30，1h用来背golang的知识，开着goland去编码记忆
+13:30-14:10 40分钟labuladong
+14:10-:15:00 看k8
+9:20-10:00 机动学习时间
+10:00-10:20 每日复习总结
+
+周三，周五提前一天想对策
+周六，到周五再想对策
+- [] labuladong文章第一章除掉图之外的所有内容，搞完！！！！
+- [] olivia的golang学习完这周
+- [] 把8h golang看完
+
+#### 5th week
+我希望能把这周过好
+
+8:30-9:30，1h用来背golang的知识，开着goland去编码记忆
+13:30-14:10 40分钟labuladong
+14:10-:15:00 看k8
+9:20-10:00 机动学习时间
+10:00-10:20 每日复习总结
+
+周三，周五提前一天想对策
+周六，到周五再想对策
+- [] labuladong文章第一章除掉图之外的所有内容，搞完！！！！
+- [] olivia的golang学习完这周
+- [] 把8h golang看完
