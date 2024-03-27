@@ -64,20 +64,7 @@ b站那门课也听完
 - [] labuladong链表部分刷题+总结
 - [] [页面崩溃了！！](https://www.youandgentleness.cn/2023/08/28/Go%E8%AF%AD%E8%A8%80%E9%9D%A2%E8%AF%95%E9%A2%98%E7%B2%BE%E8%AE%B2/)把go基础和slice部分记牢！！
 - [] 把通信这个例子的代码全部跑一遍，要花3h以上时间去理解，总结里面的东西，自己不熟悉的点 [通信系统](https://www.yuque.com/aceld/mo95lb/ks1lr9)
-#### 5th week
-我希望能把这周过好
 
-8:30-9:30，1h用来背golang的知识，开着goland去编码记忆
-13:30-14:10 40分钟labuladong
-14:10-:15:00 看k8
-9:20-10:00 机动学习时间
-10:00-10:20 每日复习总结
-
-周三，周五提前一天想对策
-周六，到周五再想对策
-- [] labuladong文章第一章除掉图之外的所有内容，搞完！！！！
-- [] olivia的golang学习完这周
-- [] 把8h golang看完
 
 #### 5th week
 我希望能把这周过好
@@ -93,3 +80,6 @@ b站那门课也听完
 - [] labuladong文章第一章除掉图之外的所有内容，搞完！！！！
 - [] olivia的golang学习完这周
 - [] 把8h golang看完
+- [] [周三差分数组](https://labuladong.online/algo/data-structure/diff-array/#%E7%AE%97%E6%B3%95%E5%AE%9E%E8%B7%B5)
+- [] [go开源项目](https://www.zhihu.com/question/478271918/answer/2544900683)    [7days-golang](https://github.com/geektutu/7days-golang/blob/master/gee-web/day1-http-base/base1/main.go)
+- [] 周五晚上两个事情，1[前缀和练习完](https://labuladong.online/algo/problem-set/perfix-sum/#%E9%A2%98%E7%9B%AE%E6%8F%8F%E8%BF%B0) 2.[找一个开源项目开始做](https://labuladong.online/algo/problem-set/perfix-sum/#%E9%A2%98%E7%9B%AE%E6%8F%8F%E8%BF%B0)
