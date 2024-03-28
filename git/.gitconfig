@@ -1,0 +1,11 @@
+[credential "https://gitee.com"]
+	provider = generic
+[user]
+	email = 709551032@qq.com
+	name = hanqing
+[http]
+	proxy = 127.0.0.1:7890
+[https]
+	proxy = 127.0.0.1:7890
+
+# 目录 C:\Users\Administrator\.gitconfig
